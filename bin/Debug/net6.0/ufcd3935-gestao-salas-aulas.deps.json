@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ufcd3935-gestao-salas-aulas/1.0.0": {
+        "runtime": {
+          "ufcd3935-gestao-salas-aulas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ufcd3935-gestao-salas-aulas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
